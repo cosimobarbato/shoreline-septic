@@ -1,0 +1,47 @@
+header{
+  background-image: url("img/home-banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.flip-icon{
+  transform: rotate(90deg);
+}
+
+.hero-text{
+  text-shadow: 2px 2px 4px #000;
+}
+
+#services{
+  background-color: #001b40;
+}
+
+#recommended{
+  background-image: url("img/recommended-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+}
+
+.time{
+  color: #d54c63;
+  text-shadow: 1px 2px 4px #fff;
+}
+
+#about{
+  background-color: #fafafa;
+}
+
+#contact{
+  background-image: url("img/contact-us.jpg");
+}
+
+.messages{
+  margin-bottom: 20px;
+}
+
+.btn-light-blue{
+  background-color: #0082b1;
+  color: white;
+}
